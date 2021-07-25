@@ -126,7 +126,7 @@ body.locked, .content-container, .self-wrapper, .article-title {
     position: absolute;
     border-radius: 5px;
     box-sizing: border-box;
-    background-color: white;
+    background-color:#00ff00;
 }
 
 .btn-text {
